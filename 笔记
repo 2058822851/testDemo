@@ -1,0 +1,24 @@
+1、安装git客户端
+    git bash 支持Linux命名的git控制台（常用）
+    git CMD 支持windows命令的控制台
+    git GUI 可视化界面
+2、VSCode 安装git插件
+    快捷键：Ctrl + ~
+3、gitHub官网网站，注册账号
+
+
+1、打开git bash
+    输入命令切换到当前目录
+2、配置git基本操作
+    git config --global user.name "2058822851"(添加注册GitHub时的昵称)
+    git config --global user.name "2058822851@qq.com"
+
+    打开官网，点击加号NEw repository
+
+    继续
+3、 git init初始化  生成.git文件
+4、工作区 =》暂存区
+    git add 文件名
+    git add *提交所有文件
+
+    git commit -m "这次提交的描述"
