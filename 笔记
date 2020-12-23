@@ -23,5 +23,5 @@
 
     git commit -m "这次提交的描述"
 5、查看当前工作区的状态 git status
-    6、git checkout 从暂存区提交到工作区
-    7、git diff 查看工作区和暂存区的区别
+6、git checkout 从暂存区见文件恢复提交到工作区
+7、git diff 查看工作区和暂存区的区别
