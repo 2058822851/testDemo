@@ -25,3 +25,14 @@
 5、查看当前工作区的状态 git status
 6、git checkout 从暂存区见文件恢复提交到工作区
 7、git diff 查看工作区和暂存区的区别
+8、git log 查看已经提交的历史版本
+9、git reset --hard HEAD^ 退回到上一版本
+10、git reset --hard 版本号 退回到指定版本
+
+11、从暂存区提交到远程仓库，生死ssh密匙
+    ssh-keygen -t rsa -C "你的GitHub邮箱"
+    找到.pub文件
+12、配置密匙
+13、暂存区=》 原创仓库
+    1、git remote add origin "https://github.com/2058822851/testDemo.git"(仓库地址)
+ 
